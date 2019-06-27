@@ -11,7 +11,7 @@ Simple two player Tic-Tac-Toe console game.
 
    - > javac Board.java
    - > javac Main.java
-4. When complied successfully type the following to play the game:
+4. When complied successfully, type the following to play the game:
    
    - > java Main
 
