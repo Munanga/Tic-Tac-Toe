@@ -5,7 +5,7 @@ Simple two player Tic-Tac-Toe console game.
 ![alt text](https://raw.githubusercontent.com/Munanga/Tic-Tac-Toe/master/board.JPG) 
 
 ## How to Play
-1. Instal java. 
+1. Install java on your device first. 
 2. Download load both the Board and Main java files to your device.
 3. Compile Board.java first then Main.java by typing the folling command using your terminal:
 
