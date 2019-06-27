@@ -7,11 +7,11 @@ Simple two player Tic-Tac-Toe console game.
 ## How to Play
 1. Install java on your device first. 
 2. Download both the Board and Main java files to your device.
-3. Compile Board.java first then Main.java by typing the folling command using your terminal:
+3. Compile Board.java first then Main.java by typing the following command using your terminal:
 
    - > javac Board.java
    - > javac Main.java
-4. Then  when complied type the following to play the game:
+4. Then when complied successfully type the following to play the game:
    
    - > java Main
 
