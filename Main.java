@@ -135,7 +135,7 @@ public class Main {
         System.out.println("| Welcome to TIC TAC TOE |");
         System.out.println("+------------------------+");
         System.out.println("Enter a number that corresponds\n" +
-                "to a point on the board as shown in example below.\n");
+                "to a point on the board as shown in the example below.\n");
     }
 
     static boolean postionCheck(String positionRow, String positionColumn,Board board, int playerNumber){
