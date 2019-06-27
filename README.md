@@ -16,6 +16,6 @@ Simple two player Tic-Tac-Toe console game.
    - > java Main
 
 
-Feel free to add improvments interms of code optimizations or gameplay
+Feel free to add improvments in terms of code optimizations or gameplay
 
 ## play with a friend and Enjoy!!!!
